@@ -2,6 +2,9 @@
 
 # Projeto de Análise de Sentimentos utilizando Inteligência Artifícial
 - Utilizei frases marcantes de filmes famosos como input;
+- Utilizei o serviço DeepSeek;
+- Funciona utilizando uma combinação de Inteligência Artificial e aprendizagem de máquina para identificar e interpretar emoções expressas durante a comunicação.
+
 
 # Input 1.
 
